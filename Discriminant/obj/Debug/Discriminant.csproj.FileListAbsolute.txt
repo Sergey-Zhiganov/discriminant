@@ -1,0 +1,6 @@
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\bin\Debug\Discriminant.dll
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\bin\Debug\Discriminant.pdb
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.AssemblyReference.cache
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\obj\Debug\Discriminant.csproj.CoreCompileInputs.cache
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\obj\Debug\Discriminant.dll
+D:\МПТ\МДК 01\ПиТПМ\Discriminant\Discriminant\obj\Debug\Discriminant.pdb

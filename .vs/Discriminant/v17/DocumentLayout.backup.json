@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCF6113-467B-4482-AE30-A9EA61D37959}|Discriminant\\Discriminant.csproj|D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\discriminant\\mathsmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCCF6113-467B-4482-AE30-A9EA61D37959}|Discriminant\\Discriminant.csproj|solutionrelative:discriminant\\mathsmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F090049-6D3A-4C02-A256-3A22F23D49A5}|Discriminant.Tests\\Discriminant.Tests.csproj|d:\\\u043C\u043F\u0442\\\u043C\u0434\u043A 01\\\u043F\u0438\u0442\u043F\u043C\\discriminant\\discriminant.tests\\mathsmethodstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F090049-6D3A-4C02-A256-3A22F23D49A5}|Discriminant.Tests\\Discriminant.Tests.csproj|solutionrelative:discriminant.tests\\mathsmethodstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathsMethodsTests.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\Discriminant.Tests\\MathsMethodsTests.cs",
+              "RelativeDocumentMoniker": "Discriminant.Tests\\MathsMethodsTests.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\Discriminant.Tests\\MathsMethodsTests.cs",
+              "RelativeToolTip": "Discriminant.Tests\\MathsMethodsTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:25:35.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathsMethods.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\Discriminant\\MathsMethods.cs",
+              "RelativeDocumentMoniker": "Discriminant\\MathsMethods.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\Discriminant\\Discriminant\\MathsMethods.cs",
+              "RelativeToolTip": "Discriminant\\MathsMethods.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:15:47.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
